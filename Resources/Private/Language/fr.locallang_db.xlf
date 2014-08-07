@@ -4,60 +4,59 @@
 		<header/>
 		<body>
 			<trans-unit id="tx_lbojobs_domain_model_jobs">
-				<source>Jobs</source>
+				<target>Emplois</target>
 			</trans-unit>
 			<trans-unit id="tx_lbojobs_domain_model_jobs.title">
-				<source>Title</source>
+				<target>Titre</target>
 			</trans-unit>
 			<trans-unit id="tx_lbojobs_domain_model_jobs.description">
-				<source>Description</source>
+				<target>Description</target>
 			</trans-unit>
 			<trans-unit id="tx_lbojobs_domain_model_jobs.requirements">
-				<source>Requirements</source>
+				<target>Exigences</target>
 			</trans-unit>
 			<trans-unit id="tx_lbojobs_domain_model_jobs.url">
-				<source>Url</source>
+				<target>Url pour postuler</target>
 			</trans-unit>
 			<trans-unit id="tx_lbojobs_domain_model_jobs.area">
-				<source>Area</source>
+				<target>Région</target>
 			</trans-unit>
 			<trans-unit id="tx_lbojobs_domain_model_jobs.type">
-				<source>Type</source>
+				<target>Type de poste</target>
 			</trans-unit>
 			<trans-unit id="tx_lbojobs_domain_model_jobs.quantity">
-				<source>Quantity</source>
+				<target>Nombre de postes</target>
 			</trans-unit>
 			<trans-unit id="tx_lbojobs_domain_model_jobs.salary">
-				<source>Salary</source>
+				<target>Rémunération</target>
 			</trans-unit>
 			<trans-unit id="tx_lbojobs_domain_model_jobs.limit_date">
-				<source>Limit Date</source>
+				<target>Date limite de candidature</target>
 			</trans-unit>
 			<trans-unit id="tx_lbojobs_domain_model_jobs.internship">
-				<source>Internship</source>
+				<target>Stage</target>
 			</trans-unit>
 			<trans-unit id="tx_lbojobs_domain_model_jobs.student">
-				<source>Student</source>
+				<target>Étudiant</target>
 			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.categories">
+				<target>Catégorie d'emploi</target>
+			</trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.external">
+                <target>Détail de l'emploi affiché sur un site externe</target>
+            </trans-unit>
             <trans-unit id="tx_lbojobs_domain_model_jobs.detail_pid">
-                <source>Job details page</source>
+                <target>Page de détail de l'emploi</target>
             </trans-unit>
             <trans-unit id="tx_lbojobs_domain_model_jobs.list_pid">
-                <source>Jobs lists page</source>
+                <target>Page de la liste d'emplois</target>
             </trans-unit>
-            <trans-unit id="tx_lbojobs_domain_model_jobs.external">
-                <source>Jobs details show on an external website</source>
-            </trans-unit>
-			<trans-unit id="tx_lbojobs_domain_model_jobs.categories">
-				<source>Categories</source>
-			</trans-unit>
             <trans-unit id="tx_lbojobs_domain_model_jobs.type.regular">
-                <source>Regular</source>
+                <target>Régulier</target>
             </trans-unit>
             <trans-unit id="tx_lbojobs_domain_model_jobs.type.temporary">
-                <source>Temporary</source>
+                <target>Temporaire</target>
             </trans-unit>
-
 		</body>
 	</file>
 </xliff>

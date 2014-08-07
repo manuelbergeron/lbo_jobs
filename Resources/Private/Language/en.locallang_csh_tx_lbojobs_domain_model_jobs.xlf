@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
-	<file source-language="en" datatype="plaintext" original="messages" date="2014-08-06T20:14:33Z" product-name="lbo_jobs">
+	<file source-language="fr" datatype="plaintext" original="messages" date="2014-08-06T20:14:33Z" product-name="lbo_jobs">
 		<header/>
 		<body>
 			<trans-unit id="title.description">
-				<source>title</source>
+				<target>title</target>
 			</trans-unit>
 			<trans-unit id="description.description">
-				<source>description</source>
+				<target>description</target>
 			</trans-unit>
 			<trans-unit id="requirements.description">
-				<source>requirements</source>
+				<target>requirements</target>
 			</trans-unit>
 			<trans-unit id="url.description">
-				<source>url</source>
+				<target>url</target>
 			</trans-unit>
 			<trans-unit id="area.description">
-				<source>area</source>
+				<target>area</target>
 			</trans-unit>
 			<trans-unit id="type.description">
-				<source>type</source>
+				<target>type</target>
 			</trans-unit>
 			<trans-unit id="quantity.description">
-				<source>quantity</source>
+				<target>quantity</target>
 			</trans-unit>
 			<trans-unit id="salary.description">
-				<source>salary</source>
+				<target>salary</target>
 			</trans-unit>
 			<trans-unit id="limit_date.description">
-				<source>limitDate</source>
+				<target>limitDate</target>
 			</trans-unit>
 			<trans-unit id="internship.description">
-				<source>internship</source>
+				<target>internship</target>
 			</trans-unit>
 			<trans-unit id="student.description">
-				<source>student</source>
+				<target>student</target>
 			</trans-unit>
 			<trans-unit id="categories.description">
-				<source>categories</source>
+				<target>categories</target>
 			</trans-unit>
 		</body>
 	</file>
