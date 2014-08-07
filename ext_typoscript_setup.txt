@@ -1,0 +1,15 @@
+
+config.tx_extbase{
+    persistence{
+        classes{
+
+            Libeo\LboJobs\Domain\Model\Category {
+                mapping {
+                    tableName = sys_category
+                    recordType = Tx_LboJobs_Category
+                }
+            }
+            
+    	}
+    }
+}

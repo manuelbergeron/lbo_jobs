@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-08-06T20:14:33Z" product-name="lbo_jobs">
+		<header/>
+		<body>
+			<trans-unit id="title.description">
+				<source>title</source>
+			</trans-unit>
+			<trans-unit id="description.description">
+				<source>description</source>
+			</trans-unit>
+			<trans-unit id="requirements.description">
+				<source>requirements</source>
+			</trans-unit>
+			<trans-unit id="url.description">
+				<source>url</source>
+			</trans-unit>
+			<trans-unit id="area.description">
+				<source>area</source>
+			</trans-unit>
+			<trans-unit id="type.description">
+				<source>type</source>
+			</trans-unit>
+			<trans-unit id="quantity.description">
+				<source>quantity</source>
+			</trans-unit>
+			<trans-unit id="salary.description">
+				<source>salary</source>
+			</trans-unit>
+			<trans-unit id="limit_date.description">
+				<source>limitDate</source>
+			</trans-unit>
+			<trans-unit id="internship.description">
+				<source>internship</source>
+			</trans-unit>
+			<trans-unit id="student.description">
+				<source>student</source>
+			</trans-unit>
+			<trans-unit id="categories.description">
+				<source>categories</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

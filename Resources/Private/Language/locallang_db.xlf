@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="fr" datatype="plaintext" original="messages" date="2014-08-06T17:07:37Z" product-name="lbo_jobs">
+		<header/>
+		<body>
+			<trans-unit id="tx_lbojobs_domain_model_jobs">
+				<source>Emplois</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.title">
+				<source>Titre</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.requirements">
+				<source>Exigences</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.url">
+				<source>Url pour postuler</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.area">
+				<source>Région</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.type">
+				<source>Type de poste</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.quantity">
+				<source>Nombre de postes</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.salary">
+				<source>Rémunération</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.limit_date">
+				<source>Date limite de candidature</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.internship">
+				<source>Stage</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.student">
+				<source>Étudiant</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.categories">
+				<source>Catégorie d'emploi</source>
+			</trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.external">
+                <source>Détail de l'emploi affiché sur un site externe</source>
+            </trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.detail_pid">
+                <source>Page de détail de l'emploi</source>
+            </trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.list_pid">
+                <source>Page de la liste d'emplois</source>
+            </trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.type.regular">
+                <source>Régulier</source>
+            </trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.type.temporary">
+                <source>Temporaire</source>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>

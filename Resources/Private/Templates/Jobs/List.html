@@ -1,0 +1,38 @@
+{namespace v=Tx_Vhs_ViewHelpers}
+<f:layout name="Default" />
+
+This Template is responsible for creating a table of domain objects.
+
+If you modify this template, do not forget to change the overwrite settings
+in /Configuration/ExtensionBuilder/settings.yaml:
+  Resources:
+    Private:
+      Templates:
+        List.html: keep
+
+Otherwise your changes will be overwritten the next time you save the extension in the extension builder
+
+<f:section name="main">
+<f:flashMessages renderMode="div" />
+<ul>
+    <f:for each="{jobs}" as="job">
+        <li>
+        <f:if condition="{job.external}">
+            <f:then>
+                <a href="{v:uri.typolink(configuration: {parameter: job.url})}" target="_blank" >{job.title}
+                    <span class="visuallyhidden"><f:translate key="tx_lbojobs_domain_model_jobs.nouvelle_fenetre" /></span>
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="external-icon" x="0px" y="0px" width="15px" height="15px" viewBox="276.875 333.917 34.542 34.467" xml:space="preserve">
+                        <g><path fill="#1D1D1B" d="M311.417,368.384h-34.542v-34.467h34.542V368.384z M279.375,365.884h29.542v-29.467h-29.542V365.884z"/></g>
+                        <g><polygon fill="#1D1D1B" points="286.752,361.084 295.943,351.894 299.941,355.891 303.811,341.484 289.405,345.355 293.402,349.352 284.211,358.543"/></g>
+                    </svg>
+                </a>
+            </f:then>
+            <f:else>
+                <f:link.action action="show" arguments="{jobs : job}" pageUid="{settings.DetailUid}" > {job.title}</f:link.action>
+            </f:else>
+        </f:if>
+
+        </li>
+    </f:for>
+</ul>
+</f:section>

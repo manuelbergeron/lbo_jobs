@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-08-06T17:07:37Z" product-name="lbo_jobs">
+		<header/>
+		<body>
+			<trans-unit id="tx_lbojobs_domain_model_jobs">
+				<source>Jobs</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.description">
+				<source>Description</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.requirements">
+				<source>Requirements</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.url">
+				<source>Url</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.area">
+				<source>Area</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.type">
+				<source>Type</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.quantity">
+				<source>Quantity</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.salary">
+				<source>Salary</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.limit_date">
+				<source>Limit Date</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.internship">
+				<source>Internship</source>
+			</trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.job">
+                <source>Job</source>
+            </trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.student">
+				<source>Student</source>
+			</trans-unit>
+			<trans-unit id="tx_lbojobs_domain_model_jobs.categories">
+				<source>Categories</source>
+			</trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.back_link">
+                <source>Back to the job openings</source>
+            </trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.requirements">
+                <source>Requirements</source>
+            </trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.apply">
+                <source>Apply for this job</source>
+            </trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.nouvelle_fenetre">
+                <source>This link will open in a new window</source>
+            </trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.informations">
+                <source>Useful information</source>
+            </trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.publish_date">
+                <source>Published on</source>
+            </trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.type.0">
+                <source>Regular</source>
+            </trans-unit>
+            <trans-unit id="tx_lbojobs_domain_model_jobs.type.1">
+                <source>Temporary</source>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>
